@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Install Ploty.js. First to Use
+### `npm start`
+
 In the project directory, you can run:
 
 ### `npm start`
